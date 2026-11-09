@@ -1,0 +1,27 @@
+# Numerical computing
+numpy==2.5.4
+pandas==3.1.1
+
+# Image processing
+Pillow==12.1.0
+opencv-python==4.13.0.90
+albumentations==2.0.8
+
+# Deep learning
+torch==2.10.0
+torchvision==0.25.0
+torchmetrics==1.8.2
+
+# Machine learning and evaluation
+scikit-learn==1.9.1
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Utilities
+tqdm==4.67.1
+tensorboard==2.20.0
+PyYAML==6.0.3
+joblib==1.5.2
+ipykernel>=6.27
